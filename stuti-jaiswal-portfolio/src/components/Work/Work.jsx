@@ -93,14 +93,26 @@ const Work = () => {
                   {selectedProject.description}
                 </p>
                 <div className="mt-6">
+  <div className="flex gap-4">
   <a
     href={selectedProject.github}
     target="_blank"
     rel="noopener noreferrer"
-    className="block w-full bg-purple-600 hover:bg-purple-700 text-white text-center py-3 rounded-lg font-semibold transition"
+    className="flex-1 bg-gray-800 hover:bg-gray-700 text-white text-center py-3 rounded-lg font-semibold transition"
   >
-    🚀 View Source Code
+    View Code
   </a>
+
+  <a
+    href="https://stack-lens-delta.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex-1 bg-purple-600 hover:bg-purple-700 text-white text-center py-3 rounded-lg font-semibold transition"
+  >
+    View Live
+  </a>
+</div>
+
 </div>
               </div>
             </div>
