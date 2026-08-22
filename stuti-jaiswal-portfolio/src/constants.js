@@ -164,7 +164,7 @@ export const projects = [
     title: "StackLens - Website Infrastructure Analyzer",
     description:
       "AI-powered website analyzer that detects frameworks, UI components, technology stack, and generates architecture insights.",
-   image: stacklensImg,
+   image: "/stacklens-preview.png",
     tags: ["React", "Node.js", "AI", "JavaScript"],
    github: "https://github.com/sTut12/StackLens",
     
