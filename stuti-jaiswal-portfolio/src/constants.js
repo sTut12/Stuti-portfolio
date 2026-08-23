@@ -177,6 +177,7 @@ export const projects = [
     image: housePriceImg,
     tags: ["Python", "Machine Learning", "HTML", "CSS", "JavaScript"],
    github: "https://github.com/sTut12/house-price-prediction",
+   live: "https://house-price-prediction-snowy.vercel.app/",
     
   },
   {

@@ -104,7 +104,7 @@ const Work = () => {
   </a>
 
   <a
-    href="https://stack-lens-delta.vercel.app/"
+    href="href={selectedProject.live}"
     target="_blank"
     rel="noopener noreferrer"
     className="flex-1 bg-purple-600 hover:bg-purple-700 text-white text-center py-3 rounded-lg font-semibold transition"
