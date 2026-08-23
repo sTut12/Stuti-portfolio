@@ -197,7 +197,8 @@ export const projects = [
       "Cybersecurity awareness website with responsive UI, smooth navigation, and modern landing page.",
     image: idrImg,
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/sTut12/institute-of-digital-risk"
+    github: "https://github.com/sTut12/institute-of-digital-risk",
+    live: "https://stut12.github.io/institute-of-digital-risk/IDR_Homepage.html"
    
   },
   {
