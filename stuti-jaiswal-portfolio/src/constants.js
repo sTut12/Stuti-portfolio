@@ -47,7 +47,7 @@ import ismaLogo from "./assets/education_logo/ismapublicschool.jpg";
 import stacklensImg from "./assets/project/stacklens.jpg";
 import housePriceImg from "./assets/project/house-price.jpg";
 import soundPlayerImg from "./assets/project/soundplayer.jpg";
-import idrImg from "./assets/project/idr.jpg";
+const idrImg = "/idr-preview.png";
 import databaseImg from "./assets/project/database.jpg";
 import sigilImg from "./assets/project/sigil.jpg";
 
