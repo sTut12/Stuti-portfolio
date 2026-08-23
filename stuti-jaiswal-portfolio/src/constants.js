@@ -174,7 +174,7 @@ export const projects = [
     title: "House Price Prediction",
     description:
       "Machine Learning web application that predicts house prices based on user inputs using Python and an interactive frontend.",
-    image: housePriceImg,
+    image: "/house-price-preview.png",
     tags: ["Python", "Machine Learning", "HTML", "CSS", "JavaScript"],
    github: "https://github.com/sTut12/house-price-prediction",
    live: "https://house-price-prediction-snowy.vercel.app/",
