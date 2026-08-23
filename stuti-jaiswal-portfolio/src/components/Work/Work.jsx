@@ -104,7 +104,7 @@ const Work = () => {
   </a>
 
   <a
-    href="href={selectedProject.live}"
+    href={selectedProject.live}
     target="_blank"
     rel="noopener noreferrer"
     className="flex-1 bg-purple-600 hover:bg-purple-700 text-white text-center py-3 rounded-lg font-semibold transition"
