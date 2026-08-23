@@ -167,6 +167,7 @@ export const projects = [
    image: "/stacklens-preview.png",
     tags: ["React", "Node.js", "AI", "JavaScript"],
    github: "https://github.com/sTut12/StackLens",
+   live: "https://stack-lens-delta.vercel.app/",
     
   },
   {
